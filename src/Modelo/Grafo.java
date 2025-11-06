@@ -1,3 +1,5 @@
+package Modelo;
+
 import java.util.*;
 
 // Acá usamos <T> así el grafo puede trabajar con cualquier tipo de dato, no solo Persona.
